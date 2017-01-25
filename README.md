@@ -25,7 +25,9 @@ You will see the price being input, and the many confirm buttons where you agree
 
 ## Selecting your price
 
+** NUM LOCK MUST BE ON **
+
 * **0 to 9 cents:** NUMPAD0-9
-* **10 to 19 cents:** SHIFT + NUMPAD0-9
+* **10 to 19 cents:** CTRL + NUMPAD0-9
 * **20 to 29 cents:** ALT + NUMPAD0-9
-* **30 to 39 cents:** ALT + SHIFT + NUMPAD0-9
+* **30 to 39 cents:** ALT + CTRL + NUMPAD0-9
