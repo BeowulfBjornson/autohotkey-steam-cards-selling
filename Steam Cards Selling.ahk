@@ -80,7 +80,7 @@ Numpad9::
     Send, {Enter}
 Return
 
-; Shift: 10-19 cents
+; Control: 10-19 cents
 
 ^Numpad0::
     Send, {Tab}0,10{Tab}{Tab}{Tab}{Enter}
@@ -246,7 +246,7 @@ Return
 
 ; Alt+Shift: 30-39 cents
 
-!+Numpad0::
+!^Numpad0::
     Send, {Tab}0,30{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -254,7 +254,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad1::
+!^Numpad1::
     Send, {Tab}0,31{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -262,7 +262,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad2::
+!^Numpad2::
     Send, {Tab}0,32{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -270,7 +270,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad3::
+!^Numpad3::
     Send, {Tab}0,33{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -278,7 +278,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad4::
+!^Numpad4::
     Send, {Tab}0,34{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -286,7 +286,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad5::
+!^Numpad5::
     Send, {Tab}0,35{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -294,7 +294,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad6::
+!^Numpad6::
     Send, {Tab}0,36{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -302,7 +302,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad7::
+!^Numpad7::
     Send, {Tab}0,37{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -310,7 +310,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad8::
+!^Numpad8::
     Send, {Tab}0,38{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
@@ -318,7 +318,7 @@ Return
     Send, {Enter}
 Return
 
-!+Numpad9::
+!^Numpad9::
     Send, {Tab}0,39{Tab}{Tab}{Tab}{Enter}
     Sleep, 300
     Send, {Tab}{Enter}
