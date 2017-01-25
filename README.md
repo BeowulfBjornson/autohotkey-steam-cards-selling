@@ -11,7 +11,7 @@ You have to press one button (or a combination of them) that represents the pric
 ## Setup
 
 * Install AutoHotkey from [their site](http://ahkscript.org/)
-* Download the script file. Here is the [direct link to it]()
+* Download the script file. [Right click this link and select 'Save link as'](https://raw.githubusercontent.com/BeowulfBjornson/autohotkey-steam-cards-selling/master/Steam%20Cards%20Selling.ahk)
 * Double click the downloaded file. The AutoHotkey icon will show on the Notification Area / Application Tray
 * Before using the script, you must manually check the "I agree to the terms of the Steam Subscriber Agreement" checkbox that shows after you click to sell card **once**
 
